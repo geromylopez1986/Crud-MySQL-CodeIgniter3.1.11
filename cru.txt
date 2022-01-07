@@ -1,0 +1,18 @@
+Hola Toño.
+
+Te envío las características de pequeño proyecto que necesitamos ver.
+
+Un CRUD para registrar clientes.
+Debes usar el framework es codeigniter 3.1.11.
+Incluir validación de inputs puedes usar / las funciones del framework / javascript / html
+Validar un número de teléfono(PREGUNTARLE A MIGUEL SI ES VALIDACION POR MENSAJE O POR NUMERO EN BASE DE DATO).   
+Validar que un correo sea único en la base de datos. Si ya existe debe devolver un mensaje de error.
+Debes incluir en bootstrap 4 para presentar los formularios.
+Tus formularios deben avisar (con el método que quieras) si las acciones se realizaron o no.
+Apartado para buscar registros ya almacenados.
+En los movimientos de insert / update / 
+delete(PREGUNTARLE A MIGUEL SI QUIERE QUE SE CREE UNA FECHA DE ELIMINACION DE USUARIO)
+marcas de tiempo de las acciones.
+
+Si tienes alguna duda sobre los requerimientos, escríbeme y con gusto te responderé.
+Saludos
